@@ -1,2 +1,2 @@
-# A MEAN Stack Task management App
+#Blog website
 Setup a bot, code it from scratch, and deploy.
